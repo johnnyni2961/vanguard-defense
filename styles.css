@@ -35,5 +35,7 @@ body {
 .coming-soon p {
     color: #fff;
     font-size: 1.2rem; /* Adjust as needed */
+    font-family: 'Courier New', Courier, monospace; /* Monospace font */
+    font-weight: bold; /* Bold text */
     margin: 0;
 }
