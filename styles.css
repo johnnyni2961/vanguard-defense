@@ -11,15 +11,15 @@ body {
 }
 
 .image-container {
-    max-width: 95%;
-    max-height: 95%;
+    max-width: 100%;
+    max-height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .image-container img {
-    max-width: 150%;
-    max-height: 150%;
+    width: 90vw;
+    height: auto;
     object-fit: contain;
 }
